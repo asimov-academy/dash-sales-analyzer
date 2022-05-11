@@ -10,7 +10,7 @@ Este é um dashboard desenvolvido apenas em Python, para análise de vendas no m
 ## Desenvolvimento do projeto:
 Para ver o desenvolvimento do projeto completo em vídeo:
 
-[![ASIMOV](https://img.shields.io/badge/ASIMOV-Projeto%20Completo-lightgrey)](https://asimov.academy/)
+[![ASIMOV](https://img.shields.io/badge/ASIMOV-Projeto%20Completo-lightgrey)](https://asimov.academy/analise-vendas-nyc/)
 
 ## Tecnologias Utilizadas:
 
