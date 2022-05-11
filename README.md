@@ -19,7 +19,7 @@ Utilizando apenas **PYTHON** e as bibliotecas
 > - Dash Core Components
 > - Plotly
 > - Requests
-> - Pandas <img align="center" alt="Pandas" height="30" width="40" src=src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg">
+> - Pandas <img align="center" alt="Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg">
 > - NumPy <img align="center" alt="NumPy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg">
 
 
