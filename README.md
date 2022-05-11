@@ -20,13 +20,13 @@ Utilizando apenas **PYTHON** e as bibliotecas
 > - Plotly
 > - Requests
 > - Pandas <img align="center" alt="Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg">
-> - NumPy <img align="center" alt="NumPy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg">
+> - NumPy <img align="center" alt="NumPy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" class="devicon-numpy-original-wordmark">
 
 
 ## Conteúdo
 Para aprender mais sobre como desenvolver projetos de Data Science, AI, Criação Web Apps e Dashboards, acesse:
 
-[![ASIMOV](https://img.shields.io/badge/ASIMOV-Saiba%20Mais-lightgrey)](https://asimov.academy/#)
+<a href = "https://asimov.academy/"><img src="https://img.shields.io/badge/ASIMOV-Projeto%20Completo-lightgrey" target="_blank"></a> 
 
 ### 🤝 Suporte/Contato
 
