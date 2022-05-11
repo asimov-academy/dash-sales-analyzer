@@ -5,7 +5,7 @@ Este é um dashboard desenvolvido apenas em Python, para análise de vendas no m
 
 - Apresenta todas as transações de imóveis em Nova Iorque entre 2016 e 2017
 - Obter a localização dos imóveis por ordem de preço
-- Filtrar os imoveis no mapa a partir do seu tamanho
+- Filtrar os imóveis no mapa a partir do seu tamanho
 
 ## Desenvolvimento do projeto:
 Para ver o desenvolvimento do projeto completo em vídeo:
