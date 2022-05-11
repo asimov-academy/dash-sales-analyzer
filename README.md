@@ -20,7 +20,7 @@ Utilizando apenas **PYTHON** e as bibliotecas
 > - Plotly
 > - Requests
 > - Pandas <img align="center" alt="Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg">
-> - NumPy <img align="center" alt="NumPy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" class="devicon-numpy-original-wordmark">
+> - NumPy <img align="center" alt="NumPy" height="30" width="40" class="devicon-numpy-original-wordmark">
 
 
 ## Conteúdo
