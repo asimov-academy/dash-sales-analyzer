@@ -17,7 +17,7 @@ Para ver as aulas do desenvolvimento do projeto completo em vídeo:
 
 Para ver o projeto em tempo real:
 
-<a href = "https://sales-analyzer-app-dash.herokuapp.com/"><img src="https://img.shields.io/badge/ASIMOV-Aulas%20do%20projeto-lightgrey" target="_blank"></a> 
+<a href = "https://sales-analyzer-app-dash.herokuapp.com/"><img src="https://img.shields.io/badge/ASIMOV-Projeto%20em%20tempo%20real-lightgrey" target="_blank"></a> 
 
 ## 👨‍💻 Tecnologias Utilizadas:
 
